@@ -1,7 +1,6 @@
-import { useState } from 'react'
+//import { useState } from 'react'
 import './App.css'
 import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
