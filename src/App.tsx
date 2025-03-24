@@ -29,7 +29,7 @@ function App() {
                 <Card.Text>Acabado lacado, Capas de álamo y caoba, Configuración 10-12-14-16-22.</Card.Text>
                 <Row>
                   <Col>
-                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Añadir al carrito</Button>
+                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Agregar al carrito</Button>
                   </Col>
                 </Row>
               </Card.Body>
@@ -44,7 +44,7 @@ function App() {
                 <Card.Text>La Trilogía de la Fundación está considerada la mejor serie de la ciencia ficción universal. Fue galardonada en 1966 con un premio Hugon</Card.Text>
                 <Row>
                   <Col>
-                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Añadir al carrito</Button>
+                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Agregar al carrito</Button>
                   </Col>
                 </Row>
               </Card.Body>
@@ -59,7 +59,7 @@ function App() {
                 <Card.Text>Es el cuarto álbum de estudio de la banda de rock inglesa Led Zeppelin, lanzado el 8 de noviembre de 1971 </Card.Text>
                 <Row>
                   <Col>
-                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Añadir al carrito</Button>
+                    <Button variant="warning" onClick={() => setModalCarrito(true)}>Agregar al carrito</Button>
                   </Col>
                 </Row>
               </Card.Body>
